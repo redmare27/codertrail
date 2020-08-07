@@ -3809,8 +3809,13 @@ pre {
   display: block;
   margin-top: 0;
   margin-bottom: 1rem;
-  font-size: 90%;
-  color: #292b2c
+  font-size: 16px;
+  color: #292b2c;
+  background-color: #f1f8ff;
+  border-color: #c8e1ff;
+  padding: 20px;
+  letter-spacing: -0.022em;
+  line-height: 1.18;
 }
 
 pre code {
